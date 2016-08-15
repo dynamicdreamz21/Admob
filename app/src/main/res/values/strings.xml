@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ADS</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_banner_ads_">Banner_ads_Activity</string>
+    <string name="title_activity_interstial_ads_">INTERSTIAL_ads_Activity</string>
+    <string name="banner_id">ca-app-pub-2294356527004825/6891104392</string>
+    <string name="interstial_id">ca-app-pub-2294356527004825/8367837594</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    //ca-app-pub-5984127134426363/5428426138
+
+</resources>
