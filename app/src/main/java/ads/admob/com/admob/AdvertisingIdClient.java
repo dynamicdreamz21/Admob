@@ -18,7 +18,7 @@ import java.util.concurrent.LinkedBlockingQueue;
  * Created by ubuntu on 29/7/16.
  */
 public final class AdvertisingIdClient {
-    //test programmer 21dsds
+    //test programmer 21
 
     public static final class AdInfo {
         private final String advertisingId;
