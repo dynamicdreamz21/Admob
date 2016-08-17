@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item
+        android:drawable="@drawable/ic_blast_01"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_02"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_03"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_04"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_05"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_06"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_07"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_08"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_09"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_10"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_11"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_12"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_13"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_14"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_15"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/ic_blast_16"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_17"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_18"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_19"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_20"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_21"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_22"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_23"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_25"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_26"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_27"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_28"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_29"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_30"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_31"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_32"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_33"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_34"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_35"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_36"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_37"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_38"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_39"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_40"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_41"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_42"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_43"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_44"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_45"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_46"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_47"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ic_blast_48"
+        android:duration="100" />
+
+
+</animation-list>
