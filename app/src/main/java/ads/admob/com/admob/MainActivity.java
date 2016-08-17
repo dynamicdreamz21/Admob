@@ -45,9 +45,9 @@ public class MainActivity extends Activity {
 
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
-        imgAnimation = (ImageView)findViewById(R.id.imgAnimation);
+        imgAnimation = (ImageView) findViewById(R.id.imgAnimation);
         imgAnimation.setBackgroundResource(R.drawable.frame_animation);
-        animationDrawable =(AnimationDrawable)imgAnimation.getBackground();
+        animationDrawable = (AnimationDrawable) imgAnimation.getBackground();
 
         imgAnimation.setOnClickListener(new View.OnClickListener() {
             @Override
