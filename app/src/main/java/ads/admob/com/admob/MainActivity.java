@@ -17,6 +17,8 @@ import android.view.animation.Animation;
 import android.widget.Button;
 import android.widget.ImageView;
 
+import ads.admob.com.admob.utils.ElaineAnimated;
+
 import static ads.admob.com.admob.R.id.btnBanner;
 import static ads.admob.com.admob.R.id.btnInterstitial;
 import static ads.admob.com.admob.R.id.imgAnimation;
@@ -31,6 +33,7 @@ public class MainActivity extends Activity {
 
     private ImageView imgAnimation;
     private AnimationDrawable animationDrawable;
+    private ElaineAnimated elaineAnimated;
 
 
     @Override
@@ -38,7 +41,10 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
 //        setContentView(R.layout.activity_main);
         setContentView(R.layout.activity_animation);
+
+
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
+
         imgAnimation = (ImageView)findViewById(R.id.imgAnimation);
         imgAnimation.setBackgroundResource(R.drawable.frame_animation);
         animationDrawable =(AnimationDrawable)imgAnimation.getBackground();
